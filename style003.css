@@ -1,0 +1,14 @@
+.flag{
+    width: 500px;
+    height: 100px;
+    margin: 0px;
+}
+#red{
+    background-color: red;
+}
+#black{
+    background-color:black;
+}
+#yellow{
+    background-color: gold;
+}
